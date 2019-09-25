@@ -1,0 +1,29 @@
+<!Doctype html>
+<html>
+<head>
+    <meat charset="utf-8">
+    <title>Assesment-1</title>
+    <h2>Welcome To My Website!</h2>
+
+</head>
+<body>
+    <p>I'm excited eventually to learn Django!</p>
+    <a href="https://www.fullstackpython.com/django.html">Here is a link to Django Official Website</a>
+    <p>Here is a picture of the Python Logo:</p>
+    <img src="https://www.geeks3d.com/public/jegx/2018q4/python-logo-601px.png">
+    <p>Here are three reasons Django is cool</p>    
+    <ol>
+        <li>Ridiculously Fast</li>
+        <li>Reasuuringly Secure</li>
+        <li>Exceedingly Scalable</li>
+    </ol>
+    <h2>Bonus:Optional Extra Credit</h2>
+    <p>can you figure out how to make a picture link?</p>
+    <a href="https://www.djangoproject.com/">
+    <img src="https://www.fullstackpython.com/img/logos/django.png">
+    </a>
+</body>
+
+</html>
+
+
