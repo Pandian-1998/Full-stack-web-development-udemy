@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Assesment-2</title>
+    </head>
+    <body>
+    <form>
+        <h1>Course Sign Up Page</h1>
+        <p>Please Note:First Name,Last Name,Password and Email are required</p>
+        <br><label>First Name:</label>
+        <input id="Text" placeholder="First Name">
+        <label>Last Name:</label>
+        <input id="Text" placeholder="Last Name"></br>
+        <br><label>Email:</label>
+        <input id="Text" placeholder="Email">
+        <label>Password:</label>
+        <input id="Text" placeholder="Password"></br>
+        <p>Are You Over the Age of 18?</p>
+        <label>Yes:</label>
+            <input type="radio" name="agee" value="">
+            <label>No:</label>
+            <input type="radio" name="agee" value="">
+         <p>Do You Have Credit Card Or Paypal?</p>
+         <select>
+            <option value="Credit Card">Credit Card</option>
+            <option value="Pay Pal">Pay Pal</option>
+            </select>
+        <p></p>
+        <input type="submit" name="" value="Sign Up">
+      </form>
+    </body>
+</html>
